@@ -6,11 +6,18 @@
 #### It is flexible.
 
 ## Screenshots
-![Main page](Screenshot_2019-05-13-10-38-48-115_android.example.groceryapp.png)
-![SignUp page](Screenshot_2019-05-13-10-25-03-911_android.example.groceryapp.png)
-![SignIn page](Screenshot_2019-05-13-10-24-51-989_android.example.groceryapp.png)
-![Home page where the items will be shown](Screenshot_2019-05-13-10-24-34-777_android.example.groceryapp.png)
-![Cart](Screenshot_2019-05-13-10-25-30-881_android.example.groceryapp.png)
+<img src="Screenshot_2019-05-13-10-38-48-115_android.example.groceryapp.png" width="200" height="400" />
+
+<img src="Screenshot_2019-05-13-10-25-03-911_android.example.groceryapp.png" width="200" height="400" />
+
+<img src="Screenshot_2019-05-13-10-24-51-989_android.example.groceryapp.png" width="200" height="400" />
+
+<img src="Screenshot_2019-05-13-10-24-34-777_android.example.groceryapp.png" width="200" height="400" />
+
+<img src="Screenshot_2019-05-13-10-25-30-881_android.example.groceryapp.png" width="200" height="400" />
+
+
+
 
 ## Tech Stack 
 ### In this application, I have used-
